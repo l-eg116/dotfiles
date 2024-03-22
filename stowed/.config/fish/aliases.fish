@@ -8,7 +8,7 @@ alias lt "exa --icons --tree --level 2"
 
 
 # Kitty
-alias icat "kitten icat"
+alias icat "kitten icat --align=left"
 alias ssh "kitten ssh"
 
 # Programming
