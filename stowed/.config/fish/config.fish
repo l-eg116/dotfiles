@@ -3,5 +3,6 @@ if status is-interactive
 end
 
 starship init fish | source
-jump shell fish | source
+# jump shell fish | source
+zoxide init fish --cmd cd | source
 thefuck --alias | source
