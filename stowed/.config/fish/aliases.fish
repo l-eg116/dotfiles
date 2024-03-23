@@ -8,6 +8,8 @@ alias lt "exa --icons --tree --level 2"
 
 alias cat "bat"
 
+alias grep "rg"
+
 
 # Kitty
 alias icat "kitten icat --align=left"
